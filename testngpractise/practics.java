@@ -10,7 +10,7 @@ import java.net.URL;
 public class practics {
     @BeforeMethod
     public void print(){
-        System.out.println(" Git beforemethod");
+        System.out.println(" Git bored beforemethod");
     }
     @Test
     public void pj(){
